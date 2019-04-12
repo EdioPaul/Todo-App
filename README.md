@@ -5,7 +5,7 @@ Node.js-React.js+Redux-MongoDB
 Começando
 
 
-Instalação
+.Instalação
 
 
 Requisitos
@@ -13,7 +13,7 @@ Requisitos
 Node.js
 MongoDB
 
-https://github.com/EdioPaulo/Todo-App.git
+git clone https://github.com/EdioPaulo/Todo-App.git
 
 cd Todo-App
 npm install
@@ -27,7 +27,7 @@ Abra http://localhost:3000
 
 
 
-Configuração
+.Configuração
 
 
 Por padrão, a String de conexão do MongoDB é mongodb://localhost/todo
