@@ -22,6 +22,8 @@ npm install
 2.Execute o aplicativo
 
 cd todo-app/ backend - npm run start
+
+
 cd todo-app/ frontend - npm run start
 
 Abra http://localhost:8080
