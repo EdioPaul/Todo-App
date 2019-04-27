@@ -21,9 +21,10 @@ npm install
 
 2.Execute o aplicativo
 
-npm run start
+cd todo-app/ backend - npm run start
+cd todo-app/ frontend - npm run start
 
-Abra http://localhost:3000
+Abra http://localhost:8080
 
 
 
